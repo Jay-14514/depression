@@ -1,0 +1,45 @@
+{
+  "document_overview": "Three core documents on adolescent depressive disorder treatment, covering medical instructions (legal norms), clinical diagnosis/intervention/risk warnings, and practical medical guides (process, costs, institutions).",
+  "documents": [
+    {
+      "doc_id": 1,
+      "title": "Annex III: Medical Treatment Instructions",
+      "formulation_basis": "Based on China's Mental Health Law, Civil Code, and Medical Records Administration Regulations",
+      "core_content": {
+        "statutory_diagnosis_rules": "Only qualified mental health physicians/institutions can diagnose/treat depression; scale self-assessment ≠ clinical diagnosis; no arbitrary medication adjustment without doctor approval.",
+        "privacy_protection": "Patient privacy (condition, records, identity) is legally protected; disclosure only allowed in emergency (self-harm/suicide/harm to others) to eliminate risks.",
+        "adolescent_requirements": "Adolescents aged 8-17 must be accompanied by guardians; guardians exercise all civil rights (informed consent, fee settlement, medical record access) on their behalf.",
+        "complaint_channels": "Submit written complaints to hospital medical affairs (reply within 7 working days); report to local health commission/market supervision or call 12345 hotline."
+      }
+    },
+    {
+      "doc_id": 2,
+      "title": "Notice on Explanations, Opinions and General Risk Warnings on Major Issues of Adolescent Depressive Disorder",
+      "basic_info": "Approved Jan 1, 2026; revised Jan-Feb 2026; crisis hotlines: 4001619995, 010-82951332, 120 (stop reading if unwell).",
+      "core_content": {
+        "depression_definition": "A prevalent mental disorder with persistent low mood/loss of interest, caused by biological (neurotransmitter imbalance, genetics), psychological and social factors; treatable with early intervention.",
+        "epidemiology": "Global adult prevalence: 5.7% (12 months); Chinese students with depressive risks: 14.8% (mild 10.8%, severe 4.0%); clinically confirmed adolescent depression in China: 2.6%; 15.7% Chinese adolescents had suicidal ideation in past year.",
+        "diagnosis_standard": "ICD-11 criteria: core symptoms (low mood/loss of interest) for ≥2 weeks + ≥5 associated symptoms (cognitive/physical); classified as mild/moderate/severe; exclude bipolar disorder.",
+        "intervention_approaches": "1. Professional assessment (confirm diagnosis/risk/comorbidities); 2. Individualized plans: pharmacotherapy (6 antidepressant categories for moderate-severe), CBT (first-line for mild-moderate), physical therapy (rTMS/ECT for severe/refractory), adjuvant therapy (exercise/mindfulness), combined therapy (drug + psychotherapy for severe cases).",
+        "observer_guidance": "1. Safety assessment (emergency help for self-harm/suicide); 2. Encourage professional evaluation; 3. Build supportive environment (non-judgmental communication).",
+        "medical_guide": "Recommended institutions: Dongyang People's Hospital (Mental Health), Dongyang 7th People's Hospital (Psychology), 4th Affiliated Hospital of Zhejiang University (Mental Health); process: waiting → consultation → exams → diagnosis → personalized plan.",
+        "cost_reference": "First visit: 500-1500 CNY; registration: 15-25 CNY; assessment: 100-300 CNY; CBT:74.8 CNY; rTMS:200 CNY; fees subject to hospital standards; no insurance reimbursement if deductible not met.",
+        "disclaimer": "No personal diagnosis/treatment advice; all medical decisions based on face-to-face professional assessment; AI content for reference only."
+      }
+    },
+    {
+      "doc_id": 3,
+      "title": "Annex II: Medical Treatment Guide",
+      "core_content": {
+        "pre_consultation_prep": "Carry smart device, social security card/medical insurance APP, 500-1500 CNY (first visit); adolescents must be accompanied by guardians.",
+        "recommended_hospitals": [
+          "Dongyang People's Hospital (Grade III Class A): Mental Health Dept, No.63 Wuning West Road (external experts on Sat, Dr. Jin Wanjun on Sun)",
+          "Dongyang 7th People's Hospital (Grade II Class B): Psychology Dept, No.14 Wuning East Road (Insomnia Diagnosis Center)",
+          "4th Affiliated Hospital of Zhejiang University (Grade III Class A): Mental Health Dept, No.N1 Shangcheng Avenue, Yiwu",
+          "Dongyang Jiangbei General Hospital (Grade II Class A): Mental Health Dept, Plot 21-23, Unit 04, Block 0579-DY-ZX-05"
+        ],
+        "clinical_process": "Waiting → clinical consultation → exams (scale/ECG/EEG) → diagnosis → individualized intervention plan (psychotherapy/pharmacotherapy/combination)."
+      }
+    }
+  ]
+}
